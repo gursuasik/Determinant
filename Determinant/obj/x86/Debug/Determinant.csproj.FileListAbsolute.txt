@@ -1,0 +1,10 @@
+D:\Documents\Works\Visual Studio\C#\Determinant\Determinant\bin\Debug\Determinant.exe
+D:\Documents\Works\Visual Studio\C#\Determinant\Determinant\bin\Debug\Determinant.pdb
+D:\Documents\Works\Visual Studio\C#\Determinant\Determinant\obj\x86\Debug\Determinant.Form1.resources
+D:\Documents\Works\Visual Studio\C#\Determinant\Determinant\obj\x86\Debug\Determinant.Properties.Resources.resources
+D:\Documents\Works\Visual Studio\C#\Determinant\Determinant\obj\x86\Debug\Determinant.exe
+D:\Documents\Works\Visual Studio\C#\Determinant\Determinant\obj\x86\Debug\Determinant.pdb
+D:\Documents\Edit\Documents\Computer\Works\Visual Studio\C#\Determinant\Determinant\obj\x86\Debug\Determinant.exe
+D:\Documents\Edit\Documents\Computer\Works\Visual Studio\C#\Determinant\Determinant\obj\x86\Debug\Determinant.pdb
+D:\Documents\Works\Visual Studio\C#\Determinant\Determinant\obj\x86\Debug\Determinant.csprojResolveAssemblyReference.cache
+D:\Documents\Works\Visual Studio\C#\Determinant\Determinant\obj\x86\Debug\Determinant.csproj.GenerateResource.Cache
